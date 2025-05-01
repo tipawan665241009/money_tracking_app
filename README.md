@@ -1,6 +1,7 @@
 # money_tracking_app
 
 A new Flutter project.
+
 <img src="https://github.com/user-attachments/assets/55d814e7-4437-42fd-8ad5-30090f2c5a1d" width = "200px">
 <img src="https://github.com/user-attachments/assets/e84cc11b-4d1e-4ce4-868a-ae8ff96a94a1" width = "200px">
 <img src="https://github.com/user-attachments/assets/5f7bf1eb-fd73-48c7-965f-2039cd2619b8" width = "200px">
